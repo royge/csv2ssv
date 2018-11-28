@@ -1,7 +1,9 @@
-# csv2ssv
+# Utility Scripts
 
-Convert first item of CSV file into space separated values
+1. csv2ssv.sh
 
-## Example
+    Convert first item of CSV file into space separated values
+
+## Examples
 
 Check tests.
