@@ -1,0 +1,4 @@
+ami-123456,qwerty,available,false,x86_64,xen,hvm
+ami-789012,qwerty,available,false,x86_64,xen,hvm
+ami-345678,qwerty,available,false,x86_64,xen,hvm
+ami-901234,qwerty,available,false,x86_64,xen,hvm
