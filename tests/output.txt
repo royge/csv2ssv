@@ -1,0 +1,20 @@
+| PROPERTY ▲  |                      VALUE                       |
+|-------------|--------------------------------------------------|
+| Arch        | x86_64                                           |
+| Created     | 2 hours                                          |
+| Description | Description                                      |
+| Hyperv      | xen                                              |
+| ID          | ami-id-here                                      |
+| Location    | accountId/locationId                             |
+| Name        | ami-name-here                                    |
+| Public      | false                                            |
+| State       | available                                        |
+| Tags        | [Release=Stable OS_Version=Ubuntu 16.04 x64 LTS] |
+| Type        | machine                                          |
+| Virt        | hvm                                              |
+
+Lineage:
+ap-southeast-1[region]
+	↳ @ami-name-here[image]
+
+| Name        | garbage-name-here                                |
