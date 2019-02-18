@@ -2,5 +2,5 @@ language: bash
 
 script:
   - cd tests && chmod +x *.sh
-  - cd tests && ./test_aminame.sh
-  - cd tests && ./test_csv2ssv.sh
+  - ./test_aminame.sh
+  - ./test_csv2ssv.sh
