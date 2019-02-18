@@ -1,6 +1,7 @@
 language: bash
 
 script:
+  - chmod +x *.sh
   - cd tests && chmod +x *.sh
   - ./test_aminame.sh
   - ./test_csv2ssv.sh
